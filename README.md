@@ -16,6 +16,9 @@ Each paper responds to specific Action Items arising from the **60th APAC DGCA C
 | 2 | **A Data-Driven Approach to ATM: Analytics, Regional KPIs and Responsible AI** | Item 4 — Air Navigation | 60/22 (data-driven ATM, KPIs, DAG); 60/21 (AI); 60/13 | `DGCA61_WP_Data_Analytics_AI.docx` · `DGCA61_Deck_Data_Analytics_AI.pptx` |
 | 3 | **Building Navigation Resilience Against GNSS RFI** | Item 4 — Air Navigation | 60/23 (RFI detection/mitigation, MON); 60/18 | `DGCA61_WP_GNSS_RFI_Resilience.docx` · `DGCA61_Deck_GNSS_RFI_Resilience.pptx` |
 | 4 | **From Reactive to Predictive: Strengthening SMS** | Item 3 — Aviation Safety | 60/8 (predictive SMS); 60/3 (data sharing); 60/4 (safety culture); 60/16 | `DGCA61_WP_Predictive_SMS.docx` · `DGCA61_Deck_Predictive_SMS.pptx` |
+| 5 | **Applying AI to NOTAM Production (RAG framework)** | Item 4 — Air Navigation | 60/21 (AI for efficiency); 60/22 (data-driven, best-practice sharing); 60/13 | `DGCA61_WP_AI_NOTAM_Generation.docx` · `DGCA61_Deck_AI_NOTAM_Generation.pptx` |
+
+Working paper 5 is based on peer-reviewed research by AirNav Indonesia and Telkom University — *"A Novel Notice to Airmen Description Generator Framework Based on String Matching Retrieval Augmented Generation"* (2025 IEEE International Conference on Computing and Applied Informatics) — and includes an accuracy results table and a results chart in its deck.
 
 Each working paper follows the standard ICAO structure: **Summary**, **References**, **1. Introduction**, **2. Discussion**, **3. Conclusion**, and **4. Action by the Conference**.
 
@@ -34,6 +37,8 @@ Each working paper follows the standard ICAO structure: **Summary**, **Reference
 ├── DGCA61_Deck_Data_Analytics_AI.pptx     Presentation 2 (PowerPoint)
 ├── DGCA61_Deck_GNSS_RFI_Resilience.pptx   Presentation 3 (PowerPoint)
 ├── DGCA61_Deck_Predictive_SMS.pptx        Presentation 4 (PowerPoint)
+├── DGCA61_WP_AI_NOTAM_Generation.docx     Working paper 5 (Word)
+├── DGCA61_Deck_AI_NOTAM_Generation.pptx   Presentation 5 (PowerPoint)
 └── content/                               Editable Markdown source drafts of each paper
 ```
 
